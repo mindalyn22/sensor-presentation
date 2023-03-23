@@ -159,7 +159,7 @@ class: center, middle
 ```{r earthquake_img, echo=FALSE, out.width='60%', fig.align='center'}
 knitr::include_graphics('media/Earthquake.webp')
 ```
-Combined Sentinel-1 and Sentinel 2 data to assess damage in Turkey-Syria Earthquake
+Caption: Combined Sentinel-1 and Sentinel 2 data to assess damage in Turkey-Syria Earthquake
 
 Source: `r Citet(myBib, "lucyTurkiyeSyriaEarthquakesFebruary2023")`
 
@@ -174,7 +174,7 @@ Source: `r Citet(myBib, "lucyTurkiyeSyriaEarthquakesFebruary2023")`
 ```{r fires_img, echo=FALSE, out.width='50%', fig.align='center'}
 knitr::include_graphics('media/Wildfires.png')
 ```
-dNBR image of portugal wildfires
+Caption: dNBR image of portugal wildfires
 
 Source: `r Citet(myBib, "llorensMethodologyEstimateForest2021")`
 
@@ -186,7 +186,7 @@ Source: `r Citet(myBib, "llorensMethodologyEstimateForest2021")`
 ```{r flood_img, echo=FALSE, out.width='50%', fig.align='center'}
 knitr::include_graphics('media/Floodmapping.png')
 ```
-Sentinel-2 Imagery from a flood in Nigeria. Cloud shadows, like in this image, are sometimes confused for water by water detection algorithms.
+Caption: Sentinel-2 Imagery from a flood in Nigeria. Cloud shadows, like in this image, are sometimes confused for water by water detection algorithms.
 
 Source: `r Citet(myBib, "bonafiliaSen1Floods11GeoreferencedDataset2020a")`
 
