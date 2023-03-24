@@ -75,7 +75,7 @@ myBib <- ReadBib("bib.bib",
 
 class: center, title-slide, middle
 
-background-image: url("media/sentinel2background.jpeg")
+background-image: url("media/Sentinel2background.jpeg")
 background-size: cover
 background-position: center
 
@@ -231,7 +231,7 @@ Sentinel 2 data is often used in conjunction with data from other satellites: na
 In this example, Refugee camps in Minawao, Cameroon are located within large areas of land using Sentinel-2. Once located, WideView-3 imagery is used on those specific areas, because it sees smaller areas at higher resolution.
 
 ```{r refugeecampsimg, echo=FALSE, out.width='50%', fig.align='center'}
-knitr::include_graphics('media/Refugeecamps.png')
+knitr::include_graphics('media/RefugeeCamps.png')
 ```
 Source: `r Citet(myBib, "SpaceTechnologyImproves2019")`
 
